@@ -1,0 +1,1 @@
+This a game that you guess out of chance a number from 1 to 20. It is completely random.
