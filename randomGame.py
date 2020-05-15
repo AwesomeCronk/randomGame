@@ -5,7 +5,7 @@ min = 1
 max = 20
 
 def intro():
-    print("Welcom to the Random Game")
+    print("Welcome to the Random Game")
     print("To play, enter a number from {} to {} when prompted. Thy goal is to guess the same number as the computer.".format(min, max))
     prompt()
 
@@ -30,7 +30,7 @@ def prompt():
         outro()
 
 def outro():
-    print(" Thank you for playing! Have a nice day! :)")
+    print("Thank you for playing! Have a nice day! :)")
     input("(press enter to exit)")
     sys.exit()
 
